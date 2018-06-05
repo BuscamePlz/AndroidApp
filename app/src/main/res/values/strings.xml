@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Buscame</string>
+    <string name="title_activity_maps">Buscame Map</string>
+    <string name="location_permission_granted">My Location Permission Granted :)</string>
+    <string name="location_permission_denied">My Location Permission Denied :(</string>
+    <string name="location_permission_available">My Location Activated</string>
+    <string name="location_permission_required">In order to find the loot, we gotta know where to look! Please grant My Location permissions.</string>
+    <string name="location_permission_not_available">My Location Permission is needed for this app.</string>
+    <string name="ok">Ok</string>
+    <string name="title_activity_item_description">ItemDescriptionActivity</string>
+</resources>
